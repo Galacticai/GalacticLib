@@ -3,8 +3,6 @@
 This repository is intended for listing all the GalacticLib libraries in one place
 
 <a href="#"> 
-</a>
-<a href="#"> 
     <img src="https://img.shields.io/badge/-Targeting-gray" />
     <img src="https://img.shields.io/badge/.NET-6.0-0078D4?labelColor=512BD4" />
     <img src="https://img.shields.io/badge/-Windows-white?logo=windows-11&logoColor=0078D4" />
