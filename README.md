@@ -1,5 +1,5 @@
 # GalacticLib
-## A family of .NET libraries packed as nuget packages
+## Family of .NET libraries packed as nuget packages
 This repository is intended for listing all the GalacticLib libraries in one place
 
 <a href="#"> 
