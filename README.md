@@ -78,6 +78,25 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 > > [<img src="https://img.shields.io/badge/phil--harmoniq-Shell.NET-ddd?logo=github&logoColor=black&labelColor=white"/>](https://github.com/phil-harmoniq/Shell.NET)
 
 <br/>
+<a href="https://github.com/Galacticai/GalacticLib.Semantic">
+    <img
+        alt="GalacticLib.Semantic"
+        src="https://img.shields.io/badge/GalacticLib-Semantic-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+    />
+</a>
+
+> <a href="https://github.com/Galacticai/GalacticLib.Semantic/actions/runs/3354750276/jobs/5558514599" >
+>     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Semantic/.NET?label=Build&logo=dotnet" />
+> </a>
+> <br/>
+> <a href="https://nuget.org/packages/GalacticLib.Semantic">
+>     <img
+>         alt="Nuget package is not available"
+>         src="https://buildstats.info/nuget/GalacticLib.Semantic"
+>     />
+> </a>
+
+<br/>
 <a href="https://github.com/Galacticai/GalacticLib.Unity">
     <img
         alt="GalacticLib.Unity"
@@ -85,7 +104,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
     />
 </a>
 
-> <a href="https://github.com/Galacticai/GalacticLib.Platforms/actions/runs/3277335543/jobs/5394485750" >
+> <a href="https://github.com/Galacticai/GalacticLib.Unity/actions/runs/3277360514/jobs/5394534269" >
 >     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Unity/.NET?label=Build&logo=dotnet" />
 > </a>
 > <br/>
