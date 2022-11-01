@@ -18,26 +18,60 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 <a href="https://github.com/Galacticai/GalacticLib.Math">
     <img
         alt="GalacticLib.Math" 
-        src="https://img.shields.io/badge/GalacticLib-Math-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+        src="https://img.shields.io/badge/GalacticLib-Math-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
     />
 </a>
 
-> <a href="https://github.com/Galacticai/GalacticLib.Math/actions/runs/3277320056/jobs/5394449671" >
->     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Math/.NET?label=Build&logo=dotnet" />
-> </a>
-> <br/>
 > <a href="https://nuget.org/packages/GalacticLib.Math">
 >     <img
 >         alt="Nuget package is not available"
 >         src="https://buildstats.info/nuget/GalacticLib.Math"
 >     />
 > </a>
+> 
+> ###### Contains:
+> 
+>> <a href="https://github.com/Galacticai/GalacticLib.Math.Numerics">
+>>     <img
+>>         alt="GalacticLib.Math" 
+>>         src="https://img.shields.io/badge/GalacticLib-Math.Numerics-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
+>>     />
+>> </a>
+>> <br/>
+>> <a href="https://github.com/Galacticai/GalacticLib.Math.Numerics/actions/runs/3356061329/jobs/5560825481" >
+>>     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Math.Numerics/.NET?label=Build&logo=dotnet" />
+>> </a>
+>> <br/>
+>> <a href="https://nuget.org/packages/GalacticLib.Math.Numerics">
+>>     <img
+>>         alt="Nuget package is not available"
+>>         src="https://buildstats.info/nuget/GalacticLib.Math.Numerics"
+>>     />
+>> </a>
+>> <br/><br/>
+>> <a href="https://github.com/Galacticai/GalacticLib.Math.Space">
+>>     <img
+>>         alt="GalacticLib.Math" 
+>>         src="https://img.shields.io/badge/GalacticLib-Math.Space-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
+>>     />
+>> </a>
+>> <br/>
+>> <a href="https://github.com/Galacticai/GalacticLib.Math.Space/actions/runs/3356170155/jobs/5561030446" >
+>>     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Math.Space/.NET?label=Build&logo=dotnet" />
+>> </a>
+>> <br/>
+>> <a href="https://nuget.org/packages/GalacticLib.Math.Space">
+>>     <img
+>>         alt="Nuget package is not available"
+>>         src="https://buildstats.info/nuget/GalacticLib.Math.Space"
+>>     />
+>> </a>
 
 <br/>
 <a href="https://github.com/Galacticai/GalacticLib.Misc">
     <img
         alt="GalacticLib.Misc"
-        src="https://img.shields.io/badge/GalacticLib-Misc-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+        src="https://img.shields.io/badge/GalacticLib-Misc-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
     />
 </a>
 
@@ -59,7 +93,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 <a href="https://github.com/Galacticai/GalacticLib.Platforms">
     <img
         alt="GalacticLib.Platforms"
-        src="https://img.shields.io/badge/GalacticLib-Platforms-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+        src="https://img.shields.io/badge/GalacticLib-Platforms-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
     />
 </a>
 
@@ -81,7 +115,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 <a href="https://github.com/Galacticai/GalacticLib.Semantic">
     <img
         alt="GalacticLib.Semantic"
-        src="https://img.shields.io/badge/GalacticLib-Semantic-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+        src="https://img.shields.io/badge/GalacticLib-Semantic-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
     />
 </a>
 
@@ -100,7 +134,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 <a href="https://github.com/Galacticai/GalacticLib.Unity">
     <img
         alt="GalacticLib.Unity"
-        src="https://img.shields.io/badge/GalacticLib-Unity-informational?logo=github&logoColor=black&labelColor=eee&color=ddd&style=for-the-badge" 
+        src="https://img.shields.io/badge/GalacticLib-Unity-ddd?logo=github&logoColor=black&labelColor=eee&style=for-the-badge" 
     />
 </a>
 
