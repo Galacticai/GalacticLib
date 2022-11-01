@@ -86,7 +86,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 >     />
 > </a>
 >
-> ###### Dependencies:
+> ###### Depends on:
 > > [<img src="https://img.shields.io/badge/Galacticai-GalacticLib.Platforms-ddd?logo=github&logoColor=black&labelColor=white"/>](https://github.com/Galacticai/GalacticLib.Platforms)
 
 <br/>
