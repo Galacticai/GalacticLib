@@ -39,7 +39,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 >> </a>
 >> <br/>
 >> <a href="https://github.com/Galacticai/GalacticLib.Math.Numerics/actions/runs/3356061329/jobs/5560825481" >
->>     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Math.Numerics/.NET?label=Build&logo=dotnet" />
+>>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Math.Numerics/dotnet.yml?label=Build&logo=dotnet" />
 >> </a>
 >> <br/>
 >> <a href="https://nuget.org/packages/GalacticLib.Math.Numerics">
@@ -57,7 +57,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 >> </a>
 >> <br/>
 >> <a href="https://github.com/Galacticai/GalacticLib.Math.Space/actions/runs/3356170155/jobs/5561030446" >
->>     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Math.Space/.NET?label=Build&logo=dotnet" />
+>>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Math.Space/dotnet.yml?label=Build&logo=dotnet" />
 >> </a>
 >> <br/>
 >> <a href="https://nuget.org/packages/GalacticLib.Math.Space">
@@ -76,7 +76,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 </a>
 
 > <a href="https://github.com/Galacticai/GalacticLib.Misc/actions/runs/3300204240/jobs/5444439120" >
->     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Misc/.NET?label=Build&logo=dotnet" />
+>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Misc/dotnet.yml?label=Build&logo=dotnet" />
 > </a>
 > <br/>
 > <a href="https://nuget.org/packages/GalacticLib.Misc">
@@ -98,7 +98,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 </a>
 
 > <a href="https://github.com/Galacticai/GalacticLib.Platforms/actions/runs/3277335543/jobs/5394485750" >
->     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Platforms/.NET?label=Build&logo=dotnet" />
+>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Platforms/dotnet.yml?label=Build&logo=dotnet" />
 > </a>
 > <br/>
 > <a href="https://nuget.org/packages/GalacticLib.Platforms">
@@ -120,7 +120,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 </a>
 
 > <a href="https://github.com/Galacticai/GalacticLib.Semantic/actions/runs/3354750276/jobs/5558514599" >
->     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Semantic/.NET?label=Build&logo=dotnet" />
+>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Semantic/dotnet.yml?label=Build&logo=dotnet" />
 > </a>
 > <br/>
 > <a href="https://nuget.org/packages/GalacticLib.Semantic">
@@ -139,7 +139,7 @@ This repository is intended for listing all the GalacticLib libraries in one pla
 </a>
 
 > <a href="https://github.com/Galacticai/GalacticLib.Unity/actions/runs/3277360514/jobs/5394534269" >
->     <img src="https://img.shields.io/github/workflow/status/Galacticai/GalacticLib.Unity/.NET?label=Build&logo=dotnet" />
+>     <img src="https://img.shields.io/github/actions/workflow/status/Galacticai/GalacticLib.Unity/dotnet.yml?label=Build&logo=dotnet" />
 > </a>
 > <br/>
 > <a href="https://nuget.org/packages/GalacticLib.Unity">
